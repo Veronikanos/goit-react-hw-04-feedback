@@ -29,7 +29,7 @@ reviews.
 ### HOW TO RUN THIS PROJECT LOCALLY
 
 Clone this repo:
-`git clone https://veronikanos.github.io/goit-react-hw-01-components/`
+`git clone https://veronikanos.github.io/goit-react-hw-04-feedback/`
 
 In the project directory, you can run:
 

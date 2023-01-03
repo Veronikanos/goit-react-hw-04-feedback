@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(201, 217, 228);
+}
+
+.sectionWrapper {
+  text-align: center;
+  margin-top: 40px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 5px #999;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+}
+
+button:active {
+  background-color: #a5c0d3;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.container {
+  padding-top: 50px;
+}

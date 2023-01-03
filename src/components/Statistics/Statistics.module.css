@@ -1,0 +1,7 @@
+.resultsList {
+  width: fit-content;
+  text-align: start;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+}

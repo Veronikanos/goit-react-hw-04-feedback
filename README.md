@@ -29,7 +29,7 @@ reviews.
 ### HOW TO RUN THIS PROJECT LOCALLY
 
 Clone this repo:
-`git clone https://veronikanos.github.io/goit-react-hw-04-feedback/`
+`git clone https://github.com/Veronikanos/goit-react-hw-04-feedback.git`
 
 In the project directory, you can run:
 
